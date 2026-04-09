@@ -1,8 +1,6 @@
 # Florph7.github.io
 GEOS 372 Czechia Map Interactable
 
-[czech_migration_edu_prague_inset_v2.html](https://github.com/user-attachments/files/26613577/czech_migration_edu_prague_inset_v2.html)
-
 <style>
 #wrap{position:relative;width:100%;font-family:var(--font-sans)}
 #tt{position:absolute;background:var(--color-background-primary);border:0.5px solid var(--color-border-secondary);border-radius:6px;padding:7px 11px;font-size:12px;pointer-events:none;display:none;z-index:30;max-width:210px;line-height:1.5}
