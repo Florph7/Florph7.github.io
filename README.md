@@ -1,5 +1,5 @@
 # Florph7.github.io
-GEOS 372 Czechia Map Interactable
+GEOS 372 Czechia Map Interactable Showing the relation between Education level (Chloropleth) and Internal Migration (Bubbles)
 
 <style>
 #wrap{position:relative;width:100%;font-family:var(--font-sans)}
